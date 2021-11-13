@@ -1,0 +1,12 @@
+{
+  "bingus_theme_intro": {
+    "sounds": [
+      "gamingmod:bingus_theme_intro"
+    ]
+  },
+  "bingus_theme_loop": {
+    "sounds": [
+      "gamingmod:bingus_theme_loop"
+    ]
+  }
+}

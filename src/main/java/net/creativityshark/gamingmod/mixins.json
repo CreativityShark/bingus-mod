@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.creativityshark.gamingmod.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BingusSalesmanEntityMixin",
+    "GamingMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "O",
+    "#",
+    "O"
+  ],
+  "key": {
+    "#": {
+      "item": "gamingmod:bingus"
+    },
+    "O": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "gamingmod:bingus_sandwich"
+  }
+}
